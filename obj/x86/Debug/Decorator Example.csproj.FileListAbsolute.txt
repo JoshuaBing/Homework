@@ -1,0 +1,10 @@
+C:\Users\Josh\AppData\Local\Temporary Projects\Decorator Example\obj\x86\Debug\ResolveAssemblyReference.cache
+C:\Users\Josh\AppData\Local\Temporary Projects\Decorator Example\bin\Debug\Decorator Example.exe
+C:\Users\Josh\AppData\Local\Temporary Projects\Decorator Example\bin\Debug\Decorator Example.pdb
+C:\Users\Josh\AppData\Local\Temporary Projects\Decorator Example\obj\x86\Debug\Decorator Example.exe
+C:\Users\Josh\AppData\Local\Temporary Projects\Decorator Example\obj\x86\Debug\Decorator Example.pdb
+C:\Users\Josh\documents\visual studio 2010\Projects\Decorator Example\obj\x86\Debug\Decorator Example.exe
+C:\Users\Josh\documents\visual studio 2010\Projects\Decorator Example\obj\x86\Debug\Decorator Example.pdb
+C:\Users\Josh\documents\visual studio 2010\Projects\Decorator Example\obj\x86\Debug\ResolveAssemblyReference.cache
+C:\Users\Josh\documents\visual studio 2010\Projects\Decorator Example\bin\Debug\Decorator Example.exe
+C:\Users\Josh\documents\visual studio 2010\Projects\Decorator Example\bin\Debug\Decorator Example.pdb
